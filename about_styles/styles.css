@@ -13,7 +13,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: large;
-    margin-left: 0px;
+    margin-left: 100px;
     text-align: left;
 }
 .archive{
@@ -21,7 +21,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: large;
-    margin-left: 50px;
+    margin-left: 110px;
     text-align: left;
 }
 .about{
@@ -29,7 +29,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     font-size: large;
-    margin-left: 60px;
+    margin-left: 100px;
     text-align: left;
 }
 .parent-element {
