@@ -1,5 +1,12 @@
+html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
 body{
     padding: 25px;
+    margin-right: 500px;
+    margin-left: auto;
+    width: 1400px;
 }
 .title {
     color: #ffffff;
@@ -7,6 +14,7 @@ body{
     text-decoration: underline;
     font-size: xx-large;
     text-align: center;
+    margin-left: 400px;
 }
 .main{
     color:#ffffff;
@@ -38,5 +46,5 @@ body{
     justify-content: flex-start;
     align-items: center;
     margin-left: 400px;
-    margin-top: -55px;
+    margin-bottom: 0px;
 }
