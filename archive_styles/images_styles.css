@@ -9,15 +9,15 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     color: white;
-    margin-top: -385px;
-    margin-left: 510px;
+    margin-bottom: 385px;
+    margin-right: 510px;
 }
 .da-title{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
     color: white;
-    margin-top: -460px;
-    margin-left: 0px;
+    margin-bottom: 520px;
+    transform: translateX(80px);
     white-space: nowrap;
 }
 .da-body{
@@ -25,7 +25,6 @@
     font-size: small;
     color: white;
     align-self: flex-start;
-    margin-left: -80px;
     margin-top: 30px;
 }
 .da-header{
