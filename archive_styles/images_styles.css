@@ -61,11 +61,14 @@ figcaption{
 @keyframes animate-click-here{
     0%{
         transform: scale(0.8);
+        color:rgb(255, 255, 255);
     }
     50%{
         transform: scale(1);
+        color:crimson;
     }
     100%{
         transform: scale(0.8);
+        color:rgb(255, 255, 255);
     }
 }
