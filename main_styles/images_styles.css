@@ -9,14 +9,65 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     color: white;
-    margin-top: -385px;
-    margin-left: 510px;
+    margin-bottom: 385px;
+    margin-right: 510px;
+}
+.da-title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    margin-bottom: 520px;
+    transform: translateX(100px);
+    white-space: nowrap;
+}
+.da-body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: white;
+    align-self: flex-start;
+    margin-top: 30px;
+}
+.da-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    margin-left: 400px;
+}
+.da-logline{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    font-size: small;
+    text-align: justify;
+    margin-left: 450px;
+}
+figcaption{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    animation: animate-click-here 2s linear forwards;
+    animation-iteration-count: infinite;
 }
 .parent-schmo {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    margin-left: 400px;
-    margin-top: -30px;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+@keyframes animate-click-here{
+    0%{
+        transform: scale(0.8);
+        color:rgb(255, 255, 255);
+    }
+    50%{
+        transform: scale(1);
+        color:crimson;
+    }
+    100%{
+        transform: scale(0.8);
+        color:rgb(255, 255, 255);
+    }
 }
