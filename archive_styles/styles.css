@@ -16,30 +16,6 @@ body{
     text-align: center;
     margin-left: 400px;
 }
-.main{
-    color:#ffffff;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: large;
-    margin-left: 100px;
-    text-align: left;
-}
-.archive{
-    color:#ffffff;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: large;
-    margin-left: 110px;
-    text-align: left;
-}
-.about{
-    color:#ffffff;
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: large;
-    margin-left: 100px;
-    text-align: left;
-}
 .parent-element {
     display: flex;
     flex-direction: row;
