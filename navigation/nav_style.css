@@ -1,11 +1,11 @@
 ul {
   list-style-type: none;
   margin: 0px;
-  margin-left: 946px;
-  transform: translateX(-270px);
+  margin-left: 779px;
+  transform: translateX(-200px);
   padding: 0;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #2c2c2c;
 }
 
 ul li {
