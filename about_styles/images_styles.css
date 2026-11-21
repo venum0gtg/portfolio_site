@@ -33,6 +33,7 @@
     color: white;
     font-size: x-large;
     text-align: center;
+    text-shadow: 1px 1px 0.1px rgb(255, 255, 255);
     margin-left: 400px;
 }
 .da-logline{
@@ -44,6 +45,14 @@
 }
 .da-poster{
     margin-left: 260px;
+}
+.da-letterboxd{
+    color:red;
+    margin-left: 780px;
+    text-decoration: underline; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    text-shadow: 0.5px 0.5px 0.1px rgb(255, 247, 0);
+    font-size: x-large;
 }
 figcaption{
     color:white;
